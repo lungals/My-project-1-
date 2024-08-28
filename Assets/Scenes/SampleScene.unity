@@ -328,7 +328,7 @@ Transform:
   m_GameObject: {fileID: 533459860}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.01, y: 2.7, z: 0}
+  m_LocalPosition: {x: 0.01, y: 2.91, z: -0}
   m_LocalScale: {x: 6.133455, y: 6.2552714, z: 3.819572}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4167,7 +4167,7 @@ ParticleSystem:
     radiusScale: 1
     collidesWith:
       serializedVersion: 2
-      m_Bits: 65
+      m_Bits: 320
     maxCollisionShapes: 256
     quality: 0
     voxelSize: 0.5
